@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EjemploRecyclerView</string>
+    <string name="texto_titulo_ejemplo">Título</string>
+    <string name="texto_ejemplo_genero_y_anyo">Género y año</string>
+</resources>
